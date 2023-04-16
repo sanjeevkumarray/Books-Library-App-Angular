@@ -2,7 +2,6 @@
 
 https://book-library-angular-app.netlify.app/
 
-...............................................
 
 
 
